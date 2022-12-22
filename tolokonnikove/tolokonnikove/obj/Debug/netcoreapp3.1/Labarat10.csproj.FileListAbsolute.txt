@@ -1,0 +1,16 @@
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\bin\Debug\netcoreapp3.1\Labarat10.exe
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\bin\Debug\netcoreapp3.1\Labarat10.deps.json
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\bin\Debug\netcoreapp3.1\Labarat10.runtimeconfig.json
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\bin\Debug\netcoreapp3.1\Labarat10.runtimeconfig.dev.json
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\bin\Debug\netcoreapp3.1\Labarat10.dll
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\bin\Debug\netcoreapp3.1\Labarat10.pdb
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\obj\Debug\netcoreapp3.1\Labarat10.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\obj\Debug\netcoreapp3.1\Labarat10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\obj\Debug\netcoreapp3.1\Labarat10.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\obj\Debug\netcoreapp3.1\Labarat10.AssemblyInfo.cs
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\obj\Debug\netcoreapp3.1\Labarat10.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\obj\Debug\netcoreapp3.1\Labarat10.csproj.CopyComplete
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\obj\Debug\netcoreapp3.1\Labarat10.dll
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\obj\Debug\netcoreapp3.1\Labarat10.pdb
+C:\Users\Никита\Desktop\Практическая №10\Labarat10\obj\Debug\netcoreapp3.1\Labarat10.genruntimeconfig.cache
